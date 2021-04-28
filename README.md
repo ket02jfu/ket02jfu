@@ -7,6 +7,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html&logoColor=E44D26)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css&logoColor=000000)
 
+## 
+
 ### My github status
 [![](https://github-readme-stats.vercel.app/api?username=ket02jfu&show_icons=true)](https://github.com/ket02jfu/github-readme-stats)
 ## 
@@ -14,6 +16,7 @@
 ## 
 ![](https://github-profile-trophy.vercel.app/?username=ket02jfu)
 
+## 
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=1771F5)](https://vk.com/entercaptcha)
