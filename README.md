@@ -9,8 +9,10 @@
 
 ### My github status
 [![](https://github-readme-stats.vercel.app/api?username=ket02jfu&show_icons=true)](https://github.com/ket02jfu/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?usernameket02jfu&layout=compact&theme=white)
-![](https://github-profile-trophy.vercel.app/?username=ket02jfu&theme=white)
+## 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ket02jfu&layout=compact)
+## 
+![](https://github-profile-trophy.vercel.app/?username=ket02jfu)
 
 
 ### Follow Me
