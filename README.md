@@ -10,12 +10,15 @@
 ## 
 
 ### My github status
-[![](https://github-readme-stats.vercel.app/api?username=ket02jfu&show_icons=true)](https://github.com/ket02jfu/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=ket02jfu&show_icons=true&theme=nord_bright)](https://github.com/ket02jfu/github-readme-stats)
 ## 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ket02jfu&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ket02jfu&layout=compact&theme=nord_bright)
 ## 
-![](https://github-profile-trophy.vercel.app/?username=ket02jfu)
-
+![](https://github-profile-trophy.vercel.app/?username=ket02jfu&theme=nord_bright)
+## 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ket02jfu&theme=nord_bright)
+## 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ket02jfu&theme=nord_bright)
 ## 
 
 ### Follow Me
