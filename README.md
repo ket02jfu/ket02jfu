@@ -14,11 +14,6 @@
 ## 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ket02jfu&layout=compact&theme=nord_bright)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ket02jfu&theme=nord_bright) 
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ket02jfu&theme=nord_bright)
 ## 
 ![](https://github-profile-trophy.vercel.app/?username=ket02jfu&theme=nord_bright)
 ## 
