@@ -13,7 +13,7 @@
 ## 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ket02jfu&layout=compact&theme=dark)
 ## 
-![](https://github-profile-trophy.vercel.app/?username=ket02jfu&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=ket02jfu&theme=darkhub)
 ## 
 
 
