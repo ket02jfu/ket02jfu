@@ -7,15 +7,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html&logoColor=E44D26)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css&logoColor=000000)
 
-## 
 
 ### My github status
-[![](https://github-readme-stats.vercel.app/api?username=ket02jfu&show_icons=true&theme=nord_bright)](https://github.com/ket02jfu/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=ket02jfu&show_icons=true&theme=dark)](https://github.com/ket02jfu/github-readme-stats)
 ## 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ket02jfu&layout=compact&theme=nord_bright)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ket02jfu&layout=compact&theme=dark)
 ## 
-![](https://github-profile-trophy.vercel.app/?username=ket02jfu&theme=nord_bright)
+![](https://github-profile-trophy.vercel.app/?username=ket02jfu&theme=dark)
 ## 
 
 
