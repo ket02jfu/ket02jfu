@@ -22,3 +22,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/me_il._.li)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/entercaptcha)
 
+### Best projects:
+![Klassy Cafe](https://github.com/ket02jfu/Klassy-Cafe)
+![TeleWeb](https://github.com/ket02jfu/TeleWeb)
+
