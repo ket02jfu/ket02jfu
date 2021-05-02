@@ -23,6 +23,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/entercaptcha)
 
 ### Best projects:
-![](https://github.com/ket02jfu/Klassy-Cafe)
-![](https://github.com/ket02jfu/TeleWeb)
+[![Klassy Cafe](https://img.shields.io/badge?style=for-the-badge&logoColor=1771F5)](https://github.com/ket02jfu/Klassy-Cafe)
+[![TeleWeb](https://img.shields.io/badge?style=for-the-badge&logoColor=1771F5)](https://github.com/ket02jfu/TeleWeb)
 
