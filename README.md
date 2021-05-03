@@ -1,4 +1,3 @@
-![Header](https://github.com/ket02jfu/ket02jfu/blob/main/assets/image.gif)
 
 ## I am a beginner programmer and want to become a front-end developer
 
