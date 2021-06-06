@@ -4,9 +4,9 @@
 ### Languages and Tools
 [![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=Git&logoColor=#000000)](https://github.com/ket02jfu)
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=#000000)](https://github.com/ket02jfu)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-151515?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://github.com/ket02jfu)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://github.com/ket02jfu)
 [![HTML5](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=HTML5&logoColor=#E34F26)](https://github.com/ket02jfu)
-[![CSS3](https://img.shields.io/badge/-CSS-151515?style=for-the-badge&logo=CSS3&logoColor=18A0FB)](https://github.com/ket02jfu)
+[![CSS3](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=CSS3&logoColor=18A0FB)](https://github.com/ket02jfu)
 
 ### My github status
 [![](https://github-readme-stats.vercel.app/api?username=ket02jfu&show_icons=true&theme=dark)](https://github.com/ket02jfu/github-readme-stats)
